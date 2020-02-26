@@ -11,5 +11,5 @@ Add python bikeshare data to github repository.
 chicago.csv, new_york_city.csv, washington.csv, bikeshare_2.py
 
 ### Credits
-Udacity Data Analyst Nanodegree Program
+Udacity Data Analyst Nanodegree Program, Udacity
 
