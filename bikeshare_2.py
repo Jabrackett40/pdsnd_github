@@ -60,7 +60,7 @@ def time_stats(df):
     # display the most common start hour
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis process took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 
@@ -79,7 +79,7 @@ def station_stats(df):
     # display most frequent combination of start station and end station trip
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis process took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 
@@ -114,7 +114,7 @@ def user_stats(df):
     # Display earliest, most recent, and most common year of birth
 
 
-    print("\nThis Took %s seconds." % (time.time() - start_time))
+    print("\nThis process took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 
